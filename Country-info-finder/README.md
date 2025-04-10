@@ -1,4 +1,4 @@
-
+# Country Info Finder
 ## Features
 
 - Get basic and advanced details about any country:
@@ -43,6 +43,7 @@ $ `Python main.py`
 ## Output
 
 Here is an example of the country info finder output:
+
 ![Output](Images/output.PNG)
 
 
