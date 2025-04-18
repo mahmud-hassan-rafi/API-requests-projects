@@ -28,9 +28,8 @@
 ## ▶️ How to Run
 
 **1. Clone this repository**  
-$ `git clone https://github.com/mahmud-hassan-rafi/Country-info-finder.git`
-            
-$ `cd country-info-finder`
+$ `git clone https://github.com/mahmud-hassan-rafi/API-requests-projects/Country-info-finder.git`
+
 
 **2. Install the required library**
 
@@ -38,7 +37,7 @@ $ `pip install requests`
 
 **3. Run the script**
 
-$ `Python main.py`
+$ `python main.py`
 
 ## Output
 
